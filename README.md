@@ -20,7 +20,7 @@
 
 ### 3、Trae
 
-1.把cloudsis-components文件夹拷贝到.claude/skills/ 下
+1.把cloudsis-components文件夹拷贝到.trae/skills/ 下
 
 
 
