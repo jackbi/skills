@@ -16,6 +16,7 @@ skills/
 └── cloudsis-components/
     ├── SKILL.md                    # 主规范文档（技术栈 + 编码规范 + 配置）
     ├── assets/                     # 案例与模板
+    │   ├── api-doc-spec.md         # 后端 API 文档读取与代码生成规范
     │   ├── api-examples.md         # API 接口定义案例
     │   ├── auth-examples.md        # 按钮权限配置案例
     │   ├── components-examples.md  # 组件使用案例（6 个典型页面模式）

@@ -312,6 +312,7 @@ const debouncedSearch = useDebounceFn((keyword) => api.search(keyword), 300)
 
 ### assets/（案例与模板）
 
+- [后端 API 文档读取与代码生成规范](./assets/api-doc-spec.md)
 - [API 接口定义案例](./assets/api-examples.md)
 - [按钮权限配置案例](./assets/auth-examples.md)
 - [组件使用案例](./assets/components-examples.md)
